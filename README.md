@@ -1,4 +1,4 @@
-# National Energy Board - User recruitement
+# National Energy Board - User recruitment
 
 <a href="https://www.codefor.ca">Code for Canada</a>, in collaboration with the <a href="https://www.neb-one.gc.ca">National Energy Board</a>, are looking for participants external to this organization to participate in a series of workshops. These workshops will explore uses of a regulatory documents database, REGDOCS, and will take approximately 1 hour. Workshops will be conducted remotely and in person based on needs. We are also seeking participants to test prototypes.
 
