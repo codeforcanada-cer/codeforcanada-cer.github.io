@@ -14,4 +14,5 @@ View the call for participation here: http://codeforcanada-neb.github.io.
 
 - Bootstrap 'Bare' starter template: https://startbootstrap.com/template-overviews/bare/
 - This was originally forked from another fellowship cohort: https://github.com/code-for-canada/psc-partnership. 
-- Content and contributions were made by core team members Angelsea Saby, Lequanne Collins-Bacchus, Ivan Duka, Roan Reimer.
+- Content and engagement strategy developed by Angelsea Saby, Lequanne Collins-Bacchus, and Roan Reimer.
+- Github development by Ivan Duka and Lequanne Collins-Bacchus.
