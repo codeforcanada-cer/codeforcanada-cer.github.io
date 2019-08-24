@@ -8,7 +8,7 @@ For more information on REGDOCS, please visit <a href="https://apps.neb-one.gc.c
 
 Code for Canada is a national non-profit that connects government innovators with the tech and design community. Our programs enable governments to deliver better digital public services and empower communities to solve civic challenges using technology and design.
 
-View the call for participation here: codeforcanada-neb.github.io.
+View the call for participation here: http://codeforcanada-neb.github.io.
 
 ## Acknowledgments
 
